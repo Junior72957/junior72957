@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho com vendas, procurando uma oportunidade na área DEV.
 - 🌱 Estou estudando JavaScript, HTML5, CSS, Boostrap, React, Node, Vue e ETC.
-- 📫 Contate-me no email: eduardo.juninho.junior@gmail.com
+- 📫 Contate-me no email: jreduardoassis@gmail.com
 - 😄 Pronouns: ele/dele.
 
 <div align="center">
